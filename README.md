@@ -1,3 +1,3 @@
 # RideShareDatabase
-My group took on the task on making SQL code around the idea of a ride sharing app. 
-The code was required to a number of entity and relationships
+# Overview
+The task was making database for ride-sharing app. The database had requirements that had to fulfilled, such as minimum entites. The databses house 7+ entieies with relationships to on another and defiend classes for entered data.
